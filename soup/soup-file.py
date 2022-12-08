@@ -16,6 +16,6 @@ tags = soup('a')
 for tag in tags:
     print(tag.get('href', None))
 
-    #beautifulsoup library scrapes webpages the easy way 
+    #beautifulsoup library scrapes webpages the easy way check documentation
     # put in html get back tags
-    # scrape data to check a system , check your own data , or a search engine
+    # scrape data to check a system , check your own data , or make a search engine
